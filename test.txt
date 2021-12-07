@@ -1,0 +1,1 @@
+    "AttachmentsConnection": "Data Source=.;Database=CITC_Att;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False",
